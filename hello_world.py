@@ -1,4 +1,0 @@
-# Akiko Ishihara
-
-print("Hello, World")
-print("Hello Hello")
